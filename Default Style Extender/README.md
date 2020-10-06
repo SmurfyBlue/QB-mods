@@ -31,6 +31,10 @@ We're still a long way off from reaching that goal, but I'm doing my best. 😅
 - Added code that sorts styles alphabetically
     - Special case for DefaultQueen to sort the _normal_ styles first and add the _alpha_ styles after.
 
-### 0.3.2 (current)
+### 0.3.2
 - Cleaned up style sorting code.
 - Fixed LeotardSuki legs.
+
+### 0.3.3 (current)
+- Added DefaultEsxea styles.
+- Updated `config.json` to the new standard.
