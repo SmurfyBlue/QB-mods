@@ -1,4 +1,4 @@
 *.json
 *.js
 assets/
-thumbnail_wip.*
+*_wip.pdn
