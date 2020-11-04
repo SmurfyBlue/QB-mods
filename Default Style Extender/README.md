@@ -35,6 +35,9 @@ We're still a long way off from reaching that goal, but I'm doing my best. 😅
 - Cleaned up style sorting code.
 - Fixed LeotardSuki legs.
 
-### 0.3.3 (current)
+### 0.3.3
 - Added DefaultEsxea styles.
 - Updated `config.json` to the new standard.
+
+### 0.3.4 (current)
+- Fixed pathing mistake with Esxea styles causing the mod to be unusable.
